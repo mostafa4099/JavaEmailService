@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mostafa</groupId>
-    <artifactId>JavaEmailService</artifactId>
+    <artifactId>SpringBootEmailService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>JavaEmailService</name>
-    <description>JavaEmailService</description>
+    <name>SpringEmailService</name>
+    <description>SpringEmailService</description>
     <properties>
         <java.version>19</java.version>
     </properties>
